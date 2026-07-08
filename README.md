@@ -20,9 +20,6 @@ The application combines healthcare analytics, an interactive dashboard, and a m
 
 ---
 
-# 📸 Application Preview
-
-> *(Add screenshots or GIFs here)*
 
 <p align="center">
 <img src="images/dashboard.png" width="95%">
@@ -238,9 +235,6 @@ http://localhost:8501
 
 ## Pavan Kalyan
 
-**AI & Machine Learning Engineer**
-
-📧 Email: *your-email@example.com*
 
 🌐 GitHub:
 https://github.com/Pavan-kalyan-k
